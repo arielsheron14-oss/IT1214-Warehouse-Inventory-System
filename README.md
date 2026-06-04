@@ -22,6 +22,7 @@ Here is a Sample output of the System.
 4. Search Item
 5. Display All
 6. Exit
+
 Enter choice: 1
 Enter ID: 001
 Enter Name: Milo
@@ -35,6 +36,7 @@ Item added
 4. Search Item
 5. Display All
 6. Exit
+
 Enter choice: 2
 Enter ID: 001
 Item has been removed
@@ -45,6 +47,7 @@ Item has been removed
 4. Search Item
 5. Display All
 6. Exit
+
 Enter choice: 3
 Enter ID: 001
 Enter new quantity: 13
@@ -56,6 +59,7 @@ Item not found
 4. Search Item
 5. Display All
 6. Exit
+
 Enter choice: 4
 Enter ID or Name: 001
 Item not found
@@ -66,6 +70,7 @@ Item not found
 4. Search Item
 5. Display All
 6. Exit
+
 Enter choice: 5
 Inventory is empty
 
@@ -75,5 +80,7 @@ Inventory is empty
 4. Search Item
 5. Display All
 6. Exit
+
 Enter choice: 6
 Exiting...
+
